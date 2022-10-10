@@ -1,0 +1,454 @@
+[
+{
+"path": "dj_come_on_come_on_turn_the_radio_on.mp3",
+"name": "DJ Come On Come On Turn The Radio On",
+"bmp": 106,
+"startTime": 0.05,
+"diamonds": 0,
+"type": "OPEN",
+"closerTiles": 0,
+"tags": "POPULAR, EDM, RapidJump",
+"theme": 1
+},
+{
+"path": "dj_dia_gadis_berkudung_merah.mp3",
+"name": "DJ Dia Gadis Berkudung Merah",
+"bmp": 115,
+"startTime": 0.05,
+"diamonds": 0,
+"type": "OPEN",
+"closerTiles": 0,
+"tags": "POPULAR, EDM, RapidJump",
+"theme": 1
+},
+{
+"path": "dj_gedang_klutuk.mp3",
+"name": "DJ Gedang Klutuk",
+"bmp": 92,
+"startTime": 0.58,
+"diamonds": 30,
+"type": "LOCK",
+"version": 0,
+"tags": null
+},
+{
+"path": "dj_joko_tingkir_ngombe_dawet.mp3",
+"name": "DJ Joko Tingkir Ngombe Dawet",
+"bmp": 95,
+"startTime": 1,
+"diamonds": 40,
+"type": "LOCK",
+"version": 0,
+"tags": null
+},
+{
+"path": "dj_meneketehe.mp3",
+"name": "DJ Meneketehe",
+"bmp": 100,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 0,
+"tags": null
+},
+{
+"path": "dj_mukamu_manis_seperti_gula.mp3",
+"name": "DJ Mukamu Manis Seperti Gula",
+"bmp": 100,
+"startTime": 1,
+"diamonds": 50,
+"type": "VIDEO",
+"version": 0,
+"tags": null
+},
+{
+"path": "dj_ojo_dibandingke.mp3",
+"name": "DJ Ojo Dibandingke",
+"bmp": 99,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "dj_peluk_cium_peluk_cium_bolak_balik.mp3",
+"name": "DJ Peluk Cium Peluk Cium Bolak Balik",
+"bmp": 100,
+"startTime": 0.9,
+"diamonds": 30,
+"type": "VIDEO",
+"version": 0,
+"tags": null
+},
+{
+"path": "dj_semalam_ku_tahan.mp3",
+"name": "DJ Semalam Ku Tahan",
+"bmp": 102,
+"startTime": 0.13,
+"diamonds": 50,
+"type": "HIDE",
+"version": 1,
+"tags": null
+},
+{
+"path": "dj_sikok_bagi_duo.mp3",
+"name": "DJ Sikok Bagi Duo",
+"bmp": 102,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "dj_udah_gede_masih_nenen.mp3",
+"name": "DJ Udah Gede Masih Nenen",
+"bmp": 91,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 0,
+"tags": null
+},
+{
+"path": "dj_ya_cuma_kamu.mp3",
+"name": "DJ Ya Cuma Kamu",
+"bmp": 110,
+"startTime": 0.45,
+"diamonds": 50,
+"type": "VIDEO",
+"version": 0,
+"tags": null
+},
+{
+"path": "flytosydney.mp3",
+"name": "Fly to sydney",
+"bmp": 115,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "firstsnow.mp3",
+"name": "First Snow",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "InspiringPianoRomantic.mp3",
+"name": "Inspiring Piano Romantic",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "KidTheme.mp3",
+"name": "Kid Theme",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "VIDEO",
+"version": 1,
+"tags": null
+},
+{
+"path": "PianoRomantic.mp3",
+"name": "Piano Romantic",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "LightPiano.mp3",
+"name": "Light Piano",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "KidsMusicFun.mp3",
+"name": "Kids Music Fun",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "strawberry.mp3",
+"name": "Strawberry cupcake",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "Dead.mp3",
+"name": "Dead",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "VIDEO",
+"version": 1,
+"tags": null
+},
+{
+"path": "InspiringPiano_Korolkov.mp3",
+"name": "Inspiring Piano",
+"bmp": 120,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 2,
+"tags": null
+},
+{
+"path": "InspiringUpliftingSummerPop.mp3",
+"name": "Inspiring Upliftin Summer",
+"bmp": 125,
+"startTime": 1,
+"diamonds": 30,
+"type": "VIDEO",
+"version": 2,
+"tags": null
+},
+{
+"path": "EasterHoliday_Purpleplanet.mp3",
+"name": "Easter Holiday",
+"bmp": 125,
+"startTime": 0.4,
+"diamonds": 50,
+"type": "LOCK",
+"version": 0,
+"tags": null
+},
+{
+"path": "CorporateMotivate_MikeSounds.mp3",
+"name": "Corporate Motivate",
+"bmp": 125,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "Time_Lapse.mp3",
+"name": "TheFatRat - Time Lapse",
+"bmp": 128,
+"startTime": 0.1,
+"diamonds": 50,
+"type": "HIDE",
+"version": 1,
+"tags": null
+},
+{
+"path": "YouCanAchieve.mp3",
+"name": "You Can Achieve",
+"bmp": 128,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 0,
+"tags": null
+},
+{
+"path": "Pophousetrapelectro_Frontmusic.mp3",
+"name": "Pop House Trap Electro",
+"bmp": 128,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "EDMFESTIVAL_MaikonMusic.mp3",
+"name": "EDM Festival",
+"bmp": 128,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "ThisisEDM.mp3",
+"name": "This is EDM",
+"bmp": 128,
+"startTime": 1,
+"diamonds": 50,
+"type": "VIDEO",
+"version": 1,
+"tags": null
+},
+{
+"path": "TheDubSteps_FASSounds.mp3",
+"name": "The Dub Steps",
+"bmp": 129,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "PlayfulClassic_Serginxs.mp3",
+"name": "Playful Classic",
+"bmp": 131,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "Evolve.mp3",
+"name": "Evolve",
+"bmp": 132,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 0,
+"tags": null
+},
+{
+"path": "sunflowerday.mp3",
+"name": "Sunflower day",
+"bmp": 133,
+"startTime": 1,
+"diamonds": 50,
+"type": "VIDEO",
+"version": 1,
+"tags": null
+},
+{
+"path": "appleday.mp3",
+"name": "Apple day",
+"bmp": 133,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "Vanlentine2.mp3",
+"name": "Valentine 2",
+"bmp": 135,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "PianoBallad_Praded.mp3",
+"name": "Piano Ballad",
+"bmp": 137,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "Edmtrap_Mikebiz.mp3",
+"name": "EDM Trap",
+"bmp": 140,
+"startTime": 1,
+"diamonds": 50,
+"type": "VIDEO",
+"version": 1,
+"tags": null
+},
+{
+"path": "ChillTrap.mp3",
+"name": "Chill Trap",
+"bmp": 141,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "EasterBunny_Pressmaster.mp3",
+"name": "Easter Bunny",
+"bmp": 144,
+"startTime": 0.35,
+"diamonds": 50,
+"type": "LOCK",
+"version": 0,
+"tags": null
+},
+{
+"path": "BeTrap.mp3",
+"name": "Be Trap",
+"bmp": 145,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 2,
+"tags": null
+},
+{
+"path": "ChristmasAdventure_Korolkov.mp3",
+"name": "Christmas Adventure",
+"bmp": 148,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+},
+{
+"path": "Energeticparty_Kicktracks.mp3",
+"name": "Energetic Party",
+"bmp": 149,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 2,
+"tags": null
+},
+{
+"path": "feelgoodday.mp3",
+"name": "Feel good day",
+"bmp": 150,
+"startTime": 1,
+"diamonds": 50,
+"type": "VIDEO",
+"version": 1,
+"tags": null
+},
+{
+"path": "FutureSport.mp3",
+"name": "Future Sport",
+"bmp": 150,
+"startTime": 1,
+"diamonds": 50,
+"type": "LOCK",
+"version": 1,
+"tags": null
+}
+]
